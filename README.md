@@ -10,8 +10,9 @@
 
 ## :mailbox: How to reach me:
 
-- GitHub: [[cjbbb](https://github.com/cjbbb)]
-- Email: [jianbincui_buaa@outlook.com][e-mail]
+- GitHub: [cjbbb](https://github.com/cjbbb)
+- Email: jianbincui_buaa@outlook.com
+
 ## Tech Stack :computer:
 
 <br>
