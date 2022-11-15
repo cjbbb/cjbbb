@@ -8,6 +8,10 @@
 * Research interests include Graph Neural Network, Natural Language Processing, and so on.  
 
 
+## :mailbox: How to reach me:
+
+- GitHub: [[cjbbb](https://github.com/cjbbb)]
+- Email: [jianbincui_buaa@outlook.com][e-mail]
 ## Tech Stack :computer:
 
 <br>
