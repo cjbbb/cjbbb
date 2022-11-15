@@ -3,7 +3,7 @@
 
 * I am Jianbin Cui :blush:
 * A Master of Engineering student in McMaster University, Computing and Software Department.
-* I am looking for Co-op / intership in 2023 summer/fall.
+* **I am looking for Co-op / intership in 2023 summer/fall.**
 * My work interests include software developer and machine leanring engineer.
 * Research interests include Graph Neural Network, Natural Language Processing, and so on.  
 
