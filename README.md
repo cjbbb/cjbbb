@@ -2,7 +2,7 @@
 
 
 * I am Jianbin Cui :blush:
-* A fist-year Master student in McMaster University, department of Computing and Software.
+* A Graduated student in McMaster University, department of Computing and Software.
 * Finished my Bachelor degree in Beihang University, department of Computer Science and Technology. 
 * **I am looking for New Grad/Junior level SWE.**
 * My work interests include **software developer** and **machine leanring engineer**.
