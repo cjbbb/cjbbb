@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am Jianbin Cui :blush: 
+* I am Chris Cui :blush: 
 * A Graduated student in McMaster University, department of Computing and Software, with one year working experience in SWE.
 * Finished my Bachelor degree in Beihang University, department of Computer Science and Technology. 
 * **I am looking for New Grad/Junior level SWE.**
