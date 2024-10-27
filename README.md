@@ -11,7 +11,7 @@
 
 ## :mailbox: How to reach me:
 
-- GitHub: [cjbbb](https://github.com/cjbbb)
+- Personal Website:https://cjbbb.github.io/
 - Email: jianbincui_buaa@outlook.com
 
 ## Tech Stack :computer:
