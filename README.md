@@ -4,7 +4,6 @@
 * I am Chris Cui :blush: 
 * A Graduated student in McMaster University, department of Computing and Software, with two years working experience in SWE.
 * Finished my Bachelor degree in Beihang University(北京航空航天大学计算机学院), department of Computer Science and Technology. 
-* **I am looking for New Grad/Junior level SWE.**
 * My work interests include **software developer** and **machine leanring engineer**.
 * Research interests include Graph Neural Network, Natural Language Processing, and so on.  
 
